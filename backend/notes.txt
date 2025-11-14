@@ -1,0 +1,29 @@
+
+
+
+1. stuck at kg not efficient in generating good number of edges and relations in
+them
+
+soln => use other spacfy model
+
+
+
+*****2.On the latest curl (topic: AI + ...) it returned empty dataset
+
+soln => gpt suggest using some examples and hardcoding them in the retriver.py
+code but that is not the permaent soln
+
+
+
+
+
+
+** Implement heath dashboard in frontend to check which api is active and inactive
+
+
+
+******* Status
+1. Bing has paid and third party is not worth
+2. BRAVE CARD declined
+
+3. Set all the .env var and rmv bing and check

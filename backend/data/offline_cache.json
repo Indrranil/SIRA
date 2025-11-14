@@ -1,0 +1,15 @@
+[
+  {
+    "topic": "quantum computing",
+    "title": "What is a Quantum Computer?",
+    "url": "https://example.com/quantum-basics",
+    "text": "Quantum computers use qubits instead of bits. They leverage superposition and entanglement to solve problems much faster than classical computers."
+  },
+  {
+    "topic": "machine learning",
+    "title": "Introduction to Machine Learning",
+    "url": "https://example.com/ml-intro",
+    "text": "Machine learning enables computers to learn from data without explicit programming. It is the foundation of AI applications."
+  }
+]
+
